@@ -8,7 +8,7 @@
 
 import dynamic from "next/dynamic";
 import { motion } from "framer-motion";
-import { useRef, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import { PRODUCTS, type ProductDef, type ProductId } from "@/config/products";
 import { DENSITY_VALUES, THICKNESS_CM, type DensityValue, type ThicknessValue } from "@/config/site";
 import { useI18n } from "@/lib/i18n";
