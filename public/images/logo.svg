@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-8 -8 428 132">
+  <defs>
+    <linearGradient id="izoGradDark" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#3B82F6"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M8,8 V64" stroke="#FFFFFF"/>
+    <path d="M42,8 H82 L42,64 H82" stroke="#FFFFFF"/>
+    <ellipse cx="107" cy="36" rx="21" ry="28" stroke="#FFFFFF"/>
+    <path d="M183,64 V8 H205 A14,14 0 0 1 205,36 H183" stroke="url(#izoGradDark)"/>
+    <path d="M230,8 V56 H262" stroke="url(#izoGradDark)"/>
+    <path d="M280,8 V42 A21,21 0 0 0 322,42 V8" stroke="url(#izoGradDark)"/>
+    <path d="M375,15 C371,8 366,5 360,5 C350,5 344,10 344,18 C344,25 350,28 361,30 C372,32 377,37 377,47 C377,58 368,66 358,66 C350,66 343,62 340,55" stroke="url(#izoGradDark)"/>
+  </g>
+  <text x="2" y="104" fill="#8FA3BA" font-family="Manrope, Inter, 'Segoe UI', Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="5.4">PENAPLAST ZAVODI</text>
+</svg>
